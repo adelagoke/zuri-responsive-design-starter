@@ -345,3 +345,41 @@ div.footer h6 {
     font-size: 1rem;
     padding-top: 6rem;
 }
+@media screen and ( max-width: 768px){
+     html{
+      font-size: 10px;
+  }
+  div.logo{
+    width: 82px;
+    height: 24px;
+    margin-right: 40px;
+  }
+  .hero-content-heading h3{
+    font-size: 20px;
+  }
+  .nav-bar{
+    padding: 24px 20px;
+  }
+  .nav-links:not(:last-child){
+    padding-right: 23px;
+}
+
+div.hero-background-pos{
+    padding: 0 5px;
+    left: 60%;
+}
+div.snapshot-team{
+    font-size: 80px;
+}
+div.snapshot-team p{
+    font-size: 16px;
+    
+}
+div.snapshot-box-content{
+    grid-template-columns: 1fr;
+    gap: 87px 0px;
+    padding: 0px 38px;
+    margin: 100px 0px;
+    flex-direction: column;
+}
+}
