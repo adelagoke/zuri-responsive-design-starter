@@ -358,7 +358,7 @@ div.footer h6 {
   .hero-content-heading h3{
     font-size: 20px;
   }
-  .nav-bar{
+  .nav-ba
     padding: 24px 20px;
   }
   .nav-links:not(:last-child){
@@ -383,4 +383,4 @@ div.snapshot-box-content{
     margin: 100px 0px;
     flex-direction: column;
 }
-}
+
